@@ -1,0 +1,2 @@
+# Store
+Angular application
